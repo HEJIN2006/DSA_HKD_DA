@@ -1,0 +1,10 @@
+C:\Users\ADMIN\Downloads\khang\DSA new\DSA new\obj\Debug\DSA new.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\khang\DSA new\DSA new\obj\Debug\DSA_new.Form1.resources
+C:\Users\ADMIN\Downloads\khang\DSA new\DSA new\obj\Debug\DSA_new.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\khang\DSA new\DSA new\obj\Debug\DSA new.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\khang\DSA new\DSA new\obj\Debug\DSA new.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\khang\DSA new\DSA new\bin\Debug\DSA new.exe.config
+C:\Users\ADMIN\Downloads\khang\DSA new\DSA new\bin\Debug\DSA new.exe
+C:\Users\ADMIN\Downloads\khang\DSA new\DSA new\bin\Debug\DSA new.pdb
+C:\Users\ADMIN\Downloads\khang\DSA new\DSA new\obj\Debug\DSA new.exe
+C:\Users\ADMIN\Downloads\khang\DSA new\DSA new\obj\Debug\DSA new.pdb
